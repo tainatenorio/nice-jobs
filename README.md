@@ -23,3 +23,10 @@ Finalidade
 O objetivo dessa apliação é centralizar a oferta de mão de obra informal, ou seja, é um ambiente no qual os trabalhadores podem ofertar seus serviços e contratantes podem encontrá-los de maneira prática.
 </p>
 
+<h2>
+Tecnologias usadas 
+</h2>
+<p>
+ReactJS, JSON Server para criar uma fake API, além de algumas bibliotecas úteis como React Router Dom, React Hook Form, Yup, MUI e Styled Components e outras.
+</p>
+
