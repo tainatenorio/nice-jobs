@@ -5,6 +5,9 @@
 <p align = "center">
 Projeto final do terceiro módulo do curso de Desenvolvimento Fullstack da Kenzie Academy Brasil. 
 </p>
+<p align = "center">
+https://projeto-front-end-theta.vercel.app/
+</p>
 <h2>
 Time de desenvolvedores
 </h2>
